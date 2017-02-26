@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java_git.iml" filepath="$PROJECT_DIR$/Java_git.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Седержится ли число в интервале/Седержится ли число в интервале.iml" filepath="$PROJECT_DIR$/Седержится ли число в интервале/Седержится ли число в интервале.iml" />
     </modules>
   </component>
 </project>
