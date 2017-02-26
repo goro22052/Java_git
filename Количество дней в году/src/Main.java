@@ -14,7 +14,7 @@ public class Main {
         int x;
 
 
-        if ((iYer % 4 = 0)  && (iYer % 100 != 0) || (iYer % 400 = 0))
+        if ((iYer % 4 == 0)  && (iYer % 100 != 0) || (iYer % 400 == 0))
             x = 366;
         else
             x = 365;
