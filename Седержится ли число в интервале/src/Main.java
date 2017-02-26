@@ -17,10 +17,5 @@ public class Main {
         else
             System.out.println("Число " + a + " не содержится в интервале.");
 
-
-
-
-
-
     }
 }
