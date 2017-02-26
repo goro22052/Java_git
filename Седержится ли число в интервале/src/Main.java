@@ -8,6 +8,7 @@ public class Main {
         // write your code here
 
         Scanner scanner = new Scanner(System.in);
+        System.out.println( "Программа определяет находится ли число в интеварле чисел от 50 до 100" );
 
         System.out.print("Введите число а:");
         int a = scanner.nextInt();
