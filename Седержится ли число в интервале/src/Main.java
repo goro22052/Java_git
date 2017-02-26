@@ -12,6 +12,11 @@ public class Main {
         System.out.print("Введите число а:");
         int a = scanner.nextInt();
 
+        if ((a > 50)&&(a < 100))
+            System.out.println( "Число " + a + " содержится в интервале." );
+        else
+            System.out.println("Число " + a + " не содержится в интервале.");
+
 
 
 
