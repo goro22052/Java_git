@@ -5,7 +5,7 @@ package com.company;
 Вывести результат на экран.
 */
 
-import javax.sound.midi.Soundbank;
+
 import java.io.*;
 
 public class Main {
@@ -14,6 +14,7 @@ public class Main {
         // write your code here
 
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+
         System.out.print("Введите целое число: ");
         String a = reader.readLine();
         int i = Integer.parseInt(a);  //переводим String  в int
