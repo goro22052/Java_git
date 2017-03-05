@@ -14,15 +14,15 @@ public class Main {
 
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 
-//        System.out.print("Введите число a: ");
+       System.out.print("Введите число a: ");
         String a = reader.readLine();
         int a1 = Integer.parseInt(a);
 
-//        System.out.print("Введите число b: ");
+       System.out.print("Введите число b: ");
         String b = reader.readLine();
         int b1 = Integer.parseInt(b);
 
-//        System.out.print("Введите число c: ");
+        System.out.print("Введите число c: ");
         String c = reader.readLine();
         int c1 = Integer.parseInt(c);
 
