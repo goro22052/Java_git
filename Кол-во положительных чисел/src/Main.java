@@ -26,8 +26,6 @@ public class Main {
         System.out.println("Введите третье число: ");
         int c = Integer.parseInt(reader.readLine());
 
-
-
         boolean n1 = a > 0;
         boolean n2 = b > 0;
         boolean n3 = c > 0;
