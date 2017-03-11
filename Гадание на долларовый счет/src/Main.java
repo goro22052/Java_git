@@ -19,19 +19,17 @@ public class Main {
     public static void main(String[] args) throws Exception {
 
 
-        int i = 0;
-        while ( i < 10)
-        {
-            for (int j = 1; j <= 10; j++ )
-            {
+        int i = 1;
+        int k = 1;
+        while (k <= 10) {
+            while (i <= 10) {
                 System.out.print("S");
+                i++;
             }
-
             System.out.println();
-            i++;
+            k++;
+            i = 1; // Возвращаем i изначальное значение, чтоб снова отрисовывалась строка
         }
-
     }
-
 }
 
