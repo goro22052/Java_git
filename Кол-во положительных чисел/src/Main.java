@@ -32,7 +32,7 @@ public class Main {
 
         if (n1 && n2 && n3) System.out.println("3");
         else if ((!n1 && n2 && n3) || (n1 && !n2 && n3) || (n1 && n2 && !n3) ) System.out.println("2");
-        else if ((!n1 && !n2 && n3) || (!n1 && n2 && !n3) && (n1 && !n2 && !n3)) System.out.println("1");
+        else if ((!n1 && !n2 && n3) || (!n1 && n2 && !n3) || (n1 && !n2 && !n3)) System.out.println("1");
         else System.out.println("0");
 
 
