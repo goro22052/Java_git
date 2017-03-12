@@ -21,9 +21,9 @@ public class Main {
         System.out.println("Введите число n: ");
         int n = Integer.parseInt(reader.readLine());
 
-     for (int m1 = 0; m1 <= m; m1++)
+     for (int m1 = 0; m1 < m; m1++)
      {
-        for (int n1 = 0; n1 <= n; n1++)
+        for (int n1 = 0; n1 < n; n1++)
         {
             System.out.print("8");
         }
