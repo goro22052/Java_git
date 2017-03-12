@@ -19,15 +19,20 @@
 public class Main {
     public static void main(String[] args) throws Exception {
 
-    for (int a = 0; a < 10; a++)
-    {
-            for (int b = 0; b < 10; b++) {
-                System.out.print("8");
-            }
-    }
+    for (int a = 1; a <= 10; a++) {
+        for (int b = 1; b <= a; b++) {
+            System.out.print("8");
+        }
+
         System.out.println();
-
-
     }
+//
+//        for (int i1 = 1; i1 <= 10; i1++) {
+//            for (int i2 = 1; i2 <= i1; i2++) {
+//                System.out.print("8");
+//            }
+//            System.out.println("");
 
-}
+
+        }
+    }
