@@ -26,13 +26,6 @@ public class Main {
 
         System.out.println();
     }
-//
-//        for (int i1 = 1; i1 <= 10; i1++) {
-//            for (int i2 = 1; i2 <= i1; i2++) {
-//                System.out.print("8");
-//            }
-//            System.out.println("");
-
 
         }
     }
