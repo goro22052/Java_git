@@ -29,4 +29,7 @@ public class Main {
         System.out.println("Введите число означающее время(от 0 до 5) а: ");
         String a = reader.readLine();
         int a1 = Integer.parseInt(a);
+    }
+}
+
 
